@@ -1,0 +1,9 @@
+[submodule "FoundationPose"]
+	path = FoundationPose
+	url = https://github.com/NVlabs/FoundationPose.git
+[submodule "calibrating"]
+	path = calibrating
+	url = https://github.com/DIYer22/calibrating.git
+[submodule "hik_camera"]
+	path = hik_camera
+	url = https://github.com/DIYer22/hik_camera.git
